@@ -212,4 +212,5 @@ holmes.config.json
 
 # project
 dist
-create-jira-ticket.config.json
+create-jira-ticket.config.js
+create-jira-ticket.issues.js
